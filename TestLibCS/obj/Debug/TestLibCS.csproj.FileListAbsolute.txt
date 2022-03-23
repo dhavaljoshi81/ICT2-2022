@@ -1,0 +1,5 @@
+F:\ICT2022\TestLibCS\bin\Debug\TestLibCS.dll
+F:\ICT2022\TestLibCS\bin\Debug\TestLibCS.pdb
+F:\ICT2022\TestLibCS\obj\Debug\TestLibCS.csproj.CoreCompileInputs.cache
+F:\ICT2022\TestLibCS\obj\Debug\TestLibCS.dll
+F:\ICT2022\TestLibCS\obj\Debug\TestLibCS.pdb
