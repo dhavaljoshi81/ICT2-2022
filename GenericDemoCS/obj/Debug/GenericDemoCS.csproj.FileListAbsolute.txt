@@ -1,0 +1,7 @@
+F:\ICT2022\GenericDemoCS\bin\Debug\GenericDemoCS.exe.config
+F:\ICT2022\GenericDemoCS\bin\Debug\GenericDemoCS.exe
+F:\ICT2022\GenericDemoCS\bin\Debug\GenericDemoCS.pdb
+F:\ICT2022\GenericDemoCS\obj\Debug\GenericDemoCS.csprojAssemblyReference.cache
+F:\ICT2022\GenericDemoCS\obj\Debug\GenericDemoCS.csproj.CoreCompileInputs.cache
+F:\ICT2022\GenericDemoCS\obj\Debug\GenericDemoCS.exe
+F:\ICT2022\GenericDemoCS\obj\Debug\GenericDemoCS.pdb
